@@ -8,10 +8,10 @@ dependencies = ["jax>=0.5.1", "numpy>=2.1.3", "scipy>=1.15.2"]
 keywords = ["sne", "tsne", "cosine", "distance", "metric"]
 
 [project.urls]
-homepage = "https://hafaio.github.io/jaxsne/"
-documentation = "https://hafaio.github.io/jaxsne/"
-repository = "https://github.com/hafaio/jaxsne"
-issues = "https://github.com/hafaio/jaxsne/issues"
+homepage = "https://hafa.cc/jaxsne/"
+documentation = "https://hafa.cc/jaxsne/"
+repository = "https://github.com/hafacc/jaxsne"
+issues = "https://github.com/hafacc/jaxsne/issues"
 
 [dependency-groups]
 dev = [
