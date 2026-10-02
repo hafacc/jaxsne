@@ -1,8 +1,8 @@
 # jaxsne
 
-[![build](https://github.com/hafaio/jaxsne/actions/workflows/build.yml/badge.svg)](https://github.com/hafaio/jaxsne/actions/workflows/build.yml)
+[![build](https://github.com/hafacc/jaxsne/actions/workflows/build.yml/badge.svg)](https://github.com/hafacc/jaxsne/actions/workflows/build.yml)
 [![pypi](https://img.shields.io/pypi/v/jaxsne)](https://pypi.org/project/jaxsne/)
-[![docs](https://img.shields.io/badge/api-docs-blue)](https://hafaio.github.io/jaxsne)
+[![docs](https://img.shields.io/badge/api-docs-blue)](https://hafa.cc/jaxsne)
 
 A library for doing dimensionality reduction in different metric spaces, or
 using different distributions.
